@@ -32,14 +32,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I like to solve smart contracts security problems provided by Ethernaut
 
-- :mailbox: Feel free to contact me on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-razzaq/)
+- :mailbox: Feel free to contact me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-razzaq/) or email me at azfarrazzaq23@gmail.com
 - 
 
 
 
-
-- 👋 Hi, I’m Azfar Razzaq
-- 👀 I’m interested in Computer Networks  
-- 🌱 I’m currently learning BlockChain and Cyber Security
-- 💞️ I’m looking to collaborate on BlockChain projects
-- 📫 Reach me at azfarrazzaq23@gmail.com
