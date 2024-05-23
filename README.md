@@ -30,7 +30,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I like to solve smart contracts security problems provided by Ethernaut
 
 - :mailbox: Feel free to contact me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-razzaq/) or email me at azfarrazzaq23@gmail.com
-- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,5 +50,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="Stack Overflow" **alt="Stack Overflow" width="40" height="40"/>
   <! <img src="" title="" **alt="" width="40" height="40"/> 
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azfar731&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azfar731&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 
