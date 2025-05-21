@@ -23,12 +23,12 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Full Stack Web Developer with expertise in React for front-end. 
+- :telescope: Currently working as a Full Stack Web Developer, specializing in front-end development with React.
 
-- :seedling: Exploring Web security and Agentic AI field 
+- :seedling:  Actively exploring the worlds of Web Security and Agentic AI.
 
-- :zap: In my free time, I like to visit Stack Overflow and contribute to exciting open-source projects
-
+- :zap: In my spare time, you’ll find me hanging out on Stack Overflow or contributing to exciting open-source projects!
+  
 - :mailbox: Feel free to contact me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-razzaq/) or email me at azfarrazzaq23@gmail.com
 ---
 
