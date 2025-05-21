@@ -23,11 +23,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Blockchain and Web3 Developer. 
+- :telescope: I’m working as a Full Stack Web Developer with expertise in React for front-end. 
 
-- :seedling: Exploring Layer2 Blockchain Protocols
+- :seedling: Exploring Web security and Agentic AI field 
 
-- :zap: In my free time, I like to solve smart contracts security problems provided by Ethernaut
+- :zap: In my free time, I like to visit Stack Overflow and contribute to exciting open-source projects
 
 - :mailbox: Feel free to contact me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azfar-razzaq/) or email me at azfarrazzaq23@gmail.com
 ---
