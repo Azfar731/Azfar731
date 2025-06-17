@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <table>
         <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6xk3kwkodzz6own2xr9h.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbg7elth5zku5l2o3k03h.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/azfar731/creating-a-multi-part-form-easily-with-react-router-no-third-party-libraries-203e">Creating a Multi-Part Form Easily with React-Router (No Third-Party Libraries)</a>
                 <div>Introduction   Ever completed a long form only to hit Submit and get an error that erases...</div>
